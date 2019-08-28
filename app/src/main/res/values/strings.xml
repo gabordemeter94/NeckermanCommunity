@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Neckerman</string>
+    <string name="No_Connection">No Internet Connection</string>
+    <string name="TurnOnInternetConnection">You need to have Mobile Data or wifi to access this. Press OK to Exit</string>
+    <string name="permission_granted">Permission Granted, Now you can use local drive .</string>
+    <string name="permission_denied">Permission Denied, You cannot use local drive .</string>
+    <string name="ask_permission">Write External Storage permission allows us to do store images. Please allow this permission in App Settings.</string>
+</resources>
